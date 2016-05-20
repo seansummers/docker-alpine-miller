@@ -3,7 +3,7 @@ John Kerl's [Miller](http://johnkerl.org/miller/doc/)
 
 Miller is like sed, awk, cut, join, and sort for name-indexed data such as CSV and tabular JSON.
 
-$ alias mlr='docker run --rm -i miller'
+$ alias mlr='docker run --rm -i seansummers/alpine-miller:4.0.0'
 
 | Date | Size | Version
 | --- | --- | ---: 
